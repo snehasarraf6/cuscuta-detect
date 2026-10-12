@@ -6,7 +6,7 @@ The model runs entirely in the browser with ONNX Runtime Web, so no server is ne
 - **Model**: MobileNetV2 with ImageNet transfer learning (exported to ONNX)
 - **Dataset**: 940 original field photographs (470 per class)
 - **Accuracy**: 100% on validation set
-- **Built by**: Rahul Neupane & Kiran Prasad Neupane, SRM IST
+- **Built by**: Sneha Sarraf, SRM IST
 
 ## How to use
 1. Upload a photograph of a plant (or use the camera)
