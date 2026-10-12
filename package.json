@@ -1,0 +1,16 @@
+{
+  "name": "cuscuta-detect",
+  "version": "1.0.0",
+  "description": "Cuscuta Infestation Classification web app using MobileNetV2 and ONNX Runtime Web",
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve ."
+  },
+  "keywords": [
+    "cuscuta",
+    "onnx-runtime-web",
+    "mobilenetv2",
+    "plant-health",
+    "github-pages"
+  ]
+}
