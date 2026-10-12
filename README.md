@@ -3,6 +3,8 @@
 A web app that classifies plant images as **Cuscuta-infested** or **Healthy** using MobileNetV2.
 The model runs entirely in the browser with ONNX Runtime Web, so no server is needed and images never leave the device.
 
+🔗 **Live Demo**: [https://snehasarraf6.github.io/cuscuta-detect/](https://snehasarraf6.github.io/cuscuta-detect/)
+
 - **Model**: MobileNetV2 with ImageNet transfer learning (exported to ONNX)
 - **Dataset**: 940 original field photographs (470 per class)
 - **Accuracy**: 100% on validation set
